@@ -1,5 +1,5 @@
 """
-Code adapted from William Basener, UVA Falculty of the School of Data Science
+Code adapted from William Basener, UVA Faculty of the School of Data Science
 Save the Children Hackathon 
 """
 from PyQt5.QtCore import Qt, QSize
